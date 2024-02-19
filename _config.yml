@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Renao Yan (颜任遨)"
-  pronouns         : "He/His/Him" # example: "she/her"  
-  bio              : "Short biography to share interest and joy."
+  pronouns         : # "He/His/Him"
+  bio              : "A master's student interested in computational pathology."
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
   uri              : # URL
