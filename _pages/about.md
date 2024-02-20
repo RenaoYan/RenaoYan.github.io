@@ -11,7 +11,7 @@ I'm a third-year master's student from [SIGS](https://www.sigs.tsinghua.edu.cn/)
 
 News
 ======
-02/2024 &emsp Admitted to the University of Washington in the Mechanical Engineering PhD program.<br />
+02/2024 &emsp;Admitted to the University of Washington in the Mechanical Engineering PhD program.<br />
 12/2023 One paper was accepted in ICASSP 2024.<br />
 09/2023 One paper was accepted in NeurIPS 2023.<br />
 07/2023 One paper was accepted in ICONIP 2023.<br />
