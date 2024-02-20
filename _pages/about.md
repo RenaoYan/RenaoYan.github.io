@@ -31,11 +31,16 @@ News
 
 08/2020 My first paper was accepted in IEEE TBioCAS.
 
+Education
+======
+M.S. in Electronic Information, Tsinghua University, 2024 (expected)
+BSE in Communication Engineering, Hunan University, 2021
+
 Research Interests
 ======
 Computational Pathology, Multiple Instance Learning (MIL), Neural Architecture Search (NAS), Network Quantization, Generative Adversarial Network (GAN), etc.
 
-Selected Awards
+Honors & Awards
 ======
 10/2023 First Class Scholarship, Award on Tsinghua University.
 
