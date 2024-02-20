@@ -11,7 +11,7 @@ I'm a third-year master's student from [SIGS](https://www.sigs.tsinghua.edu.cn/)
 
 News
 ======
-02/2024 &emsp;&emsp;Admitted to the University of Washington in the Mechanical Engineering PhD program.<br />
+02/2024 &emsp;&emsp;Admitted to the University of Washington Ph.D. program.<br />
 12/2023 &emsp;&emsp;One paper was accepted in ICASSP 2024.<br />
 09/2023 &emsp;&emsp;One paper was accepted in NeurIPS 2023.<br />
 07/2023 &emsp;&emsp;One paper was accepted in ICONIP 2023.<br />
@@ -19,13 +19,13 @@ News
 12/2022 &emsp;&emsp;One paper was accepted in eBioMedicine.<br />
 07/2022 &emsp;&emsp;One paper was accepted in PRCV 2022.<br />
 10/2021 &emsp;&emsp;One paper was accepted in IEEE TCAD.<br />
-09/2020 &emsp;&emsp;Admitted to Tsinghua University in the Electronic Information Master program.<br />
+09/2020 &emsp;&emsp;Admitted to Tsinghua University Master program.<br />
 08/2020 &emsp;&emsp;My first paper was accepted in IEEE TBioCAS.
 
 Education
 ======
-M.S. in Electronic Information, Tsinghua University, 2024 (expected)<br />
-BSE in Communication Engineering, Hunan University, 2021
+M.S. in Electronic Information, Tsinghua University, 2024 (expected).<br />
+BSE in Communication Engineering, Hunan University, 2021.
 
 Research Interests
 ======
