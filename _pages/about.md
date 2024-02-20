@@ -33,7 +33,7 @@ News
 
 Education
 ======
-M.S. in Electronic Information, Tsinghua University, 2024 (expected)
+M.S. in Electronic Information, Tsinghua University, 2024 (expected)<br />
 BSE in Communication Engineering, Hunan University, 2021
 
 Research Interests
