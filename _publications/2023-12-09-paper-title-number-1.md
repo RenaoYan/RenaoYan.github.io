@@ -2,7 +2,7 @@
 title: "Shapley Values-enabled Progressive Pseudo Bag Augmentation for Whole Slide Image Classification"
 collection: publications
 permalink: /publication/2023-12-09-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2023-12-09
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2312.05490.pdf'
