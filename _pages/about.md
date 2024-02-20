@@ -11,24 +11,15 @@ I'm a third-year master's student from [SIGS](https://www.sigs.tsinghua.edu.cn/)
 
 News
 ======
-02/2024 Admitted to the University of Washington in the Mechanical Engineering PhD program.
-
-12/2023 One paper was accepted in ICASSP 2024.
-
-09/2023 One paper was accepted in NeurIPS 2023.
-
-07/2023 One paper was accepted in ICONIP 2023.
-
-01/2023 One paper was accepted in CMIG.
-
-12/2022 One paper was accepted in eBioMedicine.
-
-07/2022 One paper was accepted in PRCV 2022.
-
-10/2021 One paper was accepted in IEEE TCAD.
-
-09/2020 Admitted to Tsinghua University in the Electronic Information Master program.
-
+02/2024 Admitted to the University of Washington in the Mechanical Engineering PhD program.<br />
+12/2023 One paper was accepted in ICASSP 2024.<br />
+09/2023 One paper was accepted in NeurIPS 2023.<br />
+07/2023 One paper was accepted in ICONIP 2023.<br />
+01/2023 One paper was accepted in CMIG.<br />
+12/2022 One paper was accepted in eBioMedicine.<br />
+07/2022 One paper was accepted in PRCV 2022.<br />
+10/2021 One paper was accepted in IEEE TCAD.<br />
+09/2020 Admitted to Tsinghua University in the Electronic Information Master program.<br />
 08/2020 My first paper was accepted in IEEE TBioCAS.
 
 Education
@@ -42,13 +33,9 @@ Computational Pathology, Multiple Instance Learning (MIL), Neural Architecture S
 
 Honors & Awards
 ======
-10/2023 First Class Scholarship, Award on Tsinghua University.
-
-10/2022 First Class Scholarship, Award on Tsinghua Shenzhen International Graduate School.
-
-06/2021 Undergraduate Excellent Innovative Graduation Project, Award on Hunan University.
-
-10/2020 First Class Scholarship, Award on Hunan University.
-
+10/2023 First Class Scholarship, Award on Tsinghua University.<br />
+10/2022 First Class Scholarship, Award on Tsinghua Shenzhen International Graduate School.<br />
+06/2021 Undergraduate Excellent Innovative Graduation Project, Award on Hunan University.<br />
+10/2020 First Class Scholarship, Award on Hunan University.<br />
 10/2019 First Class Scholarship, Award on Hunan University.
 
