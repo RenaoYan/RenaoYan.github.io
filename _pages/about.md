@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year master's student at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Tian Guan](https://www.sigs.tsinghua.edu.cn/gt/main.htm). During this period, I also served as a research assistant at [SMART Lab, HKUST](https://hkustsmartlab.netlify.app/) under the supervision of [Hao Chen](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ). Before that, I got my Bachelor's degree from [Hunan University](https://www.hnu.edu.cn/), under the supervision of [Qinghui Hong](https://orcid.org/0000-0002-6210-6033). I'm working towards using deep learning methods to solve clinical issues in computational pathology.
+I'm a Ph.D. candidate at [Univerisity of Washington, Seattle](https://www.washington.edu/). I earned my master's degree at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Tian Guan](https://www.sigs.tsinghua.edu.cn/gt/main.htm). During this period, I also served as a research assistant at [SMART Lab, HKUST](https://hkustsmartlab.netlify.app/) under the supervision of [Hao Chen](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ). Before that, I got my Bachelor's degree from [Hunan University](https://www.hnu.edu.cn/), under the supervision of [Qinghui Hong](https://orcid.org/0000-0002-6210-6033). I'm working towards using deep learning methods to solve clinical issues in computational pathology.
 
 News
 ======
+07/2024 &emsp;One paper was accepted in ACM MM 2024.<br />
 02/2024 &emsp;Admitted to the University of Washington Ph.D. program.<br />
 12/2023 &emsp;One paper was accepted in ICASSP 2024.<br />
 09/2023 &emsp;One paper was accepted in NeurIPS 2023.<br />
@@ -24,8 +25,9 @@ News
 
 Education
 ======
-06/2024(expected) &emsp;M.S. in Electronic Information, Tsinghua University.<br />
-06/2021 &emsp;BSE in Communication Engineering, Hunan University.
+09/2024-Present &emsp;Ph.D. in Mechanical Engineering, University of Washington, Seattle.<br />
+09/2021-06/2024 &emsp;M.S. in Electronic Information, Tsinghua University.<br />
+09/2017-06/2021 &emsp;BSE in Communication Engineering, Hunan University.
 
 Work Experience
 ======
@@ -37,6 +39,7 @@ Computational Pathology, Multiple Instance Learning (MIL), Neural Architecture S
 
 Honors & Awards
 ======
+06/2024 &emsp;Tsinghua University Outstanding Graduate (top 2%), Award on Tsinghua University.<br />
 10/2023 &emsp;First Class Scholarship, Award on Tsinghua University.<br />
 10/2022 &emsp;First Class Scholarship, Award on Tsinghua Shenzhen International Graduate School.<br />
 06/2021 &emsp;Undergraduate Excellent Innovative Graduation Project, Award on Hunan University.<br />
