@@ -17,6 +17,7 @@ Now, I'm working towards using deep learning methods to solve clinical issues in
 
 News
 ======
+02/2025 &emsp;One paper was accepted in IEEE J-BHI.<br />
 09/2024 &emsp;One paper was accepted in IEEE TMI.<br />
 07/2024 &emsp;One paper was accepted in ACM MM 2024.<br />
 02/2024 &emsp;Admitted to the University of Washington Ph.D. program.<br />
@@ -32,7 +33,7 @@ News
 
 Education
 ======
-09/2024-Present &emsp;Ph.D. in Mechanical Engineering, University of Washington, Seattle.<br />
+09/2024-Present &emsp;Ph.D. student in Mechanical Engineering, University of Washington, Seattle.<br />
 09/2021-06/2024 &emsp;M.S. in Electronic Information, Tsinghua University.<br />
 09/2017-06/2021 &emsp;BSE in Communication Engineering, Hunan University.
 
