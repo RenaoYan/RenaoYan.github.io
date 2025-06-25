@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Ph.D. student at [Molecular Biophotonics Laboratory](https://washington-seattle.digication.com/jonliu/Home), [Univerisity of Washington, Seattle](https://www.washington.edu/), under the supervision of [Jonathan T.C. Liu](https://scholar.google.com/citations?user=p-JSi6IAAAAJ&hl=zh-CN&oi=ao). <br />
 
-I earned my master's degree at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Tian Guan](https://www.sigs.tsinghua.edu.cn/gt/main.htm). During that period, I also served as a research assistant at [SMART Lab, HKUST](https://hkustsmartlab.netlify.app/) under the supervision of [Hao Chen](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ). <br />
+I earned my master's degree at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Tian Guan](https://www.sigs.tsinghua.edu.cn/gt/main.htm). During that period, I also served as a research assistant at [SMART Lab, HKUST](https://smartlab.cse.ust.hk/) under the supervision of [Hao Chen](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ). <br />
 
 Before that, I got my Bachelor's degree from [Hunan University](https://www.hnu.edu.cn/), under the supervision of [Qinghui Hong](https://orcid.org/0000-0002-6210-6033). <br />
 
